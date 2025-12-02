@@ -48,3 +48,8 @@ def add_song():
             print("Vui lòng nhập số nguyên (ví dụ: 240).")
     songs.append({'title': title, 'artist': artist, 'duration': duration})
     print("Đã thêm bài hát vào playlist!")
+
+def view_playlist():
+# Duyệt list songs và in ra
+# Ví dụ: 1. Lạc Trôi - Sơn Tùng MTP (240s)
+pass
