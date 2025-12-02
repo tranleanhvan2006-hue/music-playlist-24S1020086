@@ -53,3 +53,8 @@ def view_playlist():
 # Duyệt list songs và in ra
 # Ví dụ: 1. Lạc Trôi - Sơn Tùng MTP (240s)
 pass
+
+def search_by_artist():
+# Nhập tên ca sĩ
+# Duyệt list, so sánh artist (có thể dùng in hoặc ==), in ra bài hát
+pass
